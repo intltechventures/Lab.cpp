@@ -46,6 +46,9 @@ Community Forums
 Github Resources
 * https://github.com/uhub/awesome-c.git
 
+Interesting Github Accounts, with a C++ focus
+* https://github.com/pmed?tab=repositories
+
 
 Articles
 * http://www.infoworld.com/article/2608800/application-development/application-development-c-14-is-done-here-s-what-s-new.html
