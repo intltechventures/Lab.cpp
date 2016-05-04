@@ -25,26 +25,32 @@ C++ Standards
 Compilers / Tools
 * GCC, The GNU Compiler Collection
 	* https://gcc.gnu.org/
+	* https://gcc.gnu.org/svn.html
 	* https://gcc.gnu.org/releases.html
 	* https://gcc.gnu.org/onlinedocs/gcc/Standards.html
 	* https://gcc.gnu.org/install/
 	* https://gcc.gnu.org/onlinedocs/gcc/C-Dialect-Options.html
 		* GNU dialect of -std=c++14. This is the default for C++ code
+* GCC-6.1.0
 	* https://gcc.gnu.org/gcc-6/changes.html
 	* https://gcc.gnu.org/onlinedocs/6.1.0/
+	* https://gcc.gnu.org/onlinedocs/gcc-6.1.0/gcc/
 	* http://www.linuxfromscratch.org/lfs/view/development/chapter06/gcc.html
 * clang
 	* http://clang.llvm.org/
 	* http://clang.llvm.org/cxx_status.html
 
-C++ Books
+* C++ Books
 	* Bjarne Stroustrup
 		* http://www.stroustrup.com/C++.html
 		* http://www.stroustrup.com/Tour.html
 		* http://www.stroustrup.com/4th.html
 		* http://www.stroustrup.com/programming.html
 		* http://www.stroustrup.com/dne.html
-
+* Linux @ CERN - Developer Toolset
+	* http://linux.web.cern.ch/linux/devtoolset/
+		
+		
 Community Forums
 * https://gcc.gnu.org/ml/gcc/
 * http://stackoverflow.com/questions/tagged/c%2B%2B
