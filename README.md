@@ -1,7 +1,8 @@
-# Lab.cpp
+# Lab.cp
 A repository that serves as my lab for exploring the C++ language
 
 References
+* https://gcc.gnu.org
 * http://www.stroustrup.com/
 * https://google.github.io/styleguide/cppguide.html
 * http://en.cppreference.com/
@@ -24,10 +25,14 @@ C++ Standards
 Compilers / Tools
 * GCC, The GNU Compiler Collection
 	* https://gcc.gnu.org/
+	* https://gcc.gnu.org/releases.html
 	* https://gcc.gnu.org/onlinedocs/gcc/Standards.html
 	* https://gcc.gnu.org/install/
 	* https://gcc.gnu.org/onlinedocs/gcc/C-Dialect-Options.html
 		* GNU dialect of -std=c++14. This is the default for C++ code
+	* https://gcc.gnu.org/gcc-6/changes.html
+	* https://gcc.gnu.org/onlinedocs/6.1.0/
+	* http://www.linuxfromscratch.org/lfs/view/development/chapter06/gcc.html
 * clang
 	* http://clang.llvm.org/
 	* http://clang.llvm.org/cxx_status.html
@@ -41,6 +46,7 @@ C++ Books
 		* http://www.stroustrup.com/dne.html
 
 Community Forums
+* https://gcc.gnu.org/ml/gcc/
 * http://stackoverflow.com/questions/tagged/c%2B%2B
 
 Github Resources
