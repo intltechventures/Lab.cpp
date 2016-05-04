@@ -64,3 +64,5 @@ Interesting Github Accounts, with a C++ focus
 
 Articles
 * http://www.infoworld.com/article/2608800/application-development/application-development-c-14-is-done-here-s-what-s-new.html
+* http://www.infoq.com/news/2016/05/gcc61-released
+
