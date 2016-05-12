@@ -1,4 +1,4 @@
-# Lab.cp
+# Lab.cpp
 A repository that serves as my lab for exploring the C++ language
 
 References
@@ -7,7 +7,8 @@ References
 * https://google.github.io/styleguide/cppguide.html
 * http://en.cppreference.com/
 	 http://en.cppreference.com/w/cpp/compiler_support
-
+* http://www.cplusplus.com/
+* [Essential C, by Nick Parlante] (http://cslibrary.stanford.edu/101/EssentialC.pdf)
 
 C++ Standards
 * https://isocpp.org/
