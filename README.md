@@ -56,11 +56,26 @@ Compilers / Tools
 * Linux @ CERN - Developer Toolset
 	* http://linux.web.cern.ch/linux/devtoolset/
 		
-		
+
+Tutorials & Learning Resources
+* http://cpp.sh/
+
+
+
 Community Forums
 * https://gcc.gnu.org/ml/gcc/
 * http://stackoverflow.com/questions/tagged/c%2B%2B
 
+
+
+Useful Libraries
+* Boost C++ Libraries
+  * " "...one of the most highly regarded and expertly designed C++ library projects in the world." — Herb Sutter and Andrei Alexandrescu, C++ Coding Standards
+  * http://www.boost.org/
+  * http://www.boost.org/doc/libs/1_61_0/
+  * http://www.boost.org/doc/libs/1_61_0/libs/algorithm/doc/html/index.html
+* Intel® Threading Building Blocks (Intel® TBB)...++ multicore performance
+  * https://www.threadingbuildingblocks.org/
 
 
 Github Resources
@@ -72,7 +87,16 @@ Interesting Github Accounts, with a C++ focus
 * https://github.com/pmed?tab=repositories
 
 
-Articles
+Interesting Articles
 * http://www.infoworld.com/article/2608800/application-development/application-development-c-14-is-done-here-s-what-s-new.html
 * http://www.infoq.com/news/2016/05/gcc61-released
+* https://en.wikipedia.org/wiki/POSIX
+  * https://en.wikipedia.org/wiki/POSIX_Threads 
+  * http://www.hpl.hp.com/techreports/2004/HPL-2004-209.html
+* https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/
+  * https://solarianprogrammer.com/2012/02/27/cpp-11-thread-tutorial-part-2/
+  * https://github.com/sol-prog/threads
+* https://solarianprogrammer.com/2015/05/08/detect-red-circles-image-using-opencv/
+* https://solarianprogrammer.com/2015/01/13/raspberry-pi-raspbian-install-gcc-compile-cpp-14-programs/
+
 
