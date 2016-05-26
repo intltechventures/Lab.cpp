@@ -98,5 +98,6 @@ Interesting Articles
   * https://github.com/sol-prog/threads
 * https://solarianprogrammer.com/2015/05/08/detect-red-circles-image-using-opencv/
 * https://solarianprogrammer.com/2015/01/13/raspberry-pi-raspbian-install-gcc-compile-cpp-14-programs/
+* http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
 
 
