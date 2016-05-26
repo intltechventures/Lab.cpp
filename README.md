@@ -61,11 +61,9 @@ Tutorials & Learning Resources
 * http://cpp.sh/
 
 
-
 Community Forums
 * https://gcc.gnu.org/ml/gcc/
 * http://stackoverflow.com/questions/tagged/c%2B%2B
-
 
 
 Useful Libraries
@@ -76,6 +74,10 @@ Useful Libraries
   * http://www.boost.org/doc/libs/1_61_0/libs/algorithm/doc/html/index.html
 * Intel® Threading Building Blocks (Intel® TBB)...++ multicore performance
   * https://www.threadingbuildingblocks.org/
+* Thrust
+  * https://thrust.github.io/
+  * https://developer.nvidia.com/thrust
+  * http://docs.nvidia.com/cuda/thrust/
 
 
 Github Resources
