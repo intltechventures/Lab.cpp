@@ -16,7 +16,9 @@ Download the latest GCC source code
 Create a build directory
 * ```mkdir build-gcc```
 * ```cd build-gcc```
-* ```../gcc-6.1.0/configure --program-suffix=6.1.0 --enable-language=c,c++ --disable-bootstrap --disable-shared --prefix=~/usr/local/gcc-6.1.0```
+* configure command alternatives:
+  * ```../gcc-6.1.0/configure --program-suffix=6.1.0 --enable-language=c,c++ --disable-bootstrap --disable-shared --prefix=~/usr/local/gcc-6.1.0```
+  * ```../gcc-6.1.0/configure --prefix=/usr --disable-multilib --with-system-zlib --enable-languages=c,c++,fortran,go,objc,obj-c++ && make
 
 
 NOTES:
