@@ -6,7 +6,10 @@ References:
 * https://gcc.gnu.org/install/index.html
 * https://gcc.gnu.org/install/prerequisites.html
   * ftp://gcc.gnu.org/pub/gcc/infrastructure/
-
+* http://www.linuxfromscratch.org/blfs/view/cvs/general/gcc.html
+* http://www.linuxfromscratch.org/lfs/view/development/chapter06/gcc.html
+* https://launchpad.net/ubuntu/+source/gcc-6/6.1.1-0ubuntu11
+* https://launchpad.net/~ubuntu-toolchain-r/+archive/ubuntu/test
 
 Download the latest GCC source code
 * ```wget http://ftpmirror.gnu.org/gcc/gcc-6.1.0/gcc-6.1.0.tar.gz```
