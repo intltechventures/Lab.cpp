@@ -28,13 +28,13 @@ using namespace std;
 std::mutex foo, bar;
 
 void hello() {
-	cout << "hello concurrent world" << endl;
+	cout << "Demo thread-safe behavior with <thread> and mutexes" << endl;
 }
 
 void count1() {
 	for (int i = 0; i < 500; i++) {
 		std::lock(foo, bar);
-		cout << "Counter #1: " << i << endl;
+		cout << "Counter for Thread #1: " << i << endl;
 		foo.unlock();
 		bar.unlock();
 	}
@@ -43,7 +43,7 @@ void count1() {
 void count2() {
 	for (int i = 0; i < 500; i++) {
 		std::lock(bar, foo);
-		cout << "Counter #2: " << i << endl;
+		cout << "Counter for Thread #2: " << i << endl;
 		bar.unlock();
 		foo.unlock();
 	}
