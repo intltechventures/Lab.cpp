@@ -83,6 +83,7 @@ Useful Libraries
 Github Resources
 * https://github.com/uhub/awesome-c.git
 * https://github.com/openthread/openthread
+* https://github.com/xoreaxeaxeax/movfuscator
 
 
 Interesting Github Accounts, with a C++ focus
