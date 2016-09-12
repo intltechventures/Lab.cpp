@@ -78,6 +78,8 @@ Useful Libraries
   * https://thrust.github.io/
   * https://developer.nvidia.com/thrust
   * http://docs.nvidia.com/cuda/thrust/
+* Cryptography
+  * http://www.cryptopp.com/
 
 
 Github Resources
