@@ -72,15 +72,18 @@ Useful Libraries
   * http://www.boost.org/
   * http://www.boost.org/doc/libs/1_61_0/
   * http://www.boost.org/doc/libs/1_61_0/libs/algorithm/doc/html/index.html
+
 * Intel® Threading Building Blocks (Intel® TBB)...++ multicore performance
   * https://www.threadingbuildingblocks.org/
+
 * Thrust
   * https://thrust.github.io/
   * https://developer.nvidia.com/thrust
   * http://docs.nvidia.com/cuda/thrust/
+
 * Cryptography
   * http://www.cryptopp.com/
-
+    * https://github.com/weidai11/cryptopp
 
 Github Resources
 * https://github.com/uhub/awesome-c.git
