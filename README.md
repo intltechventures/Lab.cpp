@@ -89,10 +89,15 @@ Github Resources
 * https://github.com/uhub/awesome-c.git
 * https://github.com/openthread/openthread
 * https://github.com/xoreaxeaxeax/movfuscator
+* https://github.com/rigtorp/awesome-modern-cpp
 
 
 Interesting Github Accounts, with a C++ focus
 * https://github.com/pmed?tab=repositories
+
+
+C++ Related Blogs
+* http://arne-mertz.de/
 
 
 Interesting Articles
