@@ -57,6 +57,10 @@ Compilers / Tools
 	* http://linux.web.cern.ch/linux/devtoolset/
 		
 
+IDEs
+* http://codeblocks.org/
+
+
 Tutorials & Learning Resources
 * http://cpp.sh/
 
