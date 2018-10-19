@@ -47,12 +47,15 @@ Compilers / Tools
 	* http://clang.llvm.org/cxx_status.html
 
 * C++ Books
-	* Bjarne Stroustrup
-		* http://www.stroustrup.com/C++.html
-		* http://www.stroustrup.com/Tour.html
-		* http://www.stroustrup.com/4th.html
-		* http://www.stroustrup.com/programming.html
-		* http://www.stroustrup.com/dne.html
+  * Bjarne Stroustrup
+    * http://www.stroustrup.com/C++.html
+    * http://www.stroustrup.com/Tour.html
+    * http://www.stroustrup.com/4th.html
+    * http://www.stroustrup.com/programming.html
+    * http://www.stroustrup.com/dne.html
+  * Marc Gregoire 
+    * https://www.amazon.com/Professional-C-Marc-Gregoire/dp/1119421306/
+      * Covers C++ 17, April 2018
 * Linux @ CERN - Developer Toolset
 	* http://linux.web.cern.ch/linux/devtoolset/
 		
