@@ -1,7 +1,8 @@
 # Lab.cpp
 A repository that serves as my lab for exploring the C++ language
+==== 
 
-References
+### References
 * https://gcc.gnu.org
 * http://www.stroustrup.com/
 * https://google.github.io/styleguide/cppguide.html
@@ -11,7 +12,7 @@ References
 * [Essential C, by Nick Parlante] (http://cslibrary.stanford.edu/101/EssentialC.pdf)
 
 
-C++ Standards
+### C++ Standards
 * https://isocpp.org/
 	* https://isocpp.org/std/the-standard
 
@@ -26,7 +27,7 @@ C++ Standards
 	* http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4296.pdf 
 
 
-Compilers / Tools
+### Compilers / Tools
 * GCC, The GNU Compiler Collection
 	* https://gcc.gnu.org/
 	* https://gcc.gnu.org/svn.html
@@ -60,20 +61,20 @@ Compilers / Tools
 	* http://linux.web.cern.ch/linux/devtoolset/
 		
 
-IDEs
+### IDEs
 * http://codeblocks.org/
 
 
-Tutorials & Learning Resources
+### Tutorials & Learning Resources
 * http://cpp.sh/
 
 
-Community Forums
+### Community Forums
 * https://gcc.gnu.org/ml/gcc/
 * http://stackoverflow.com/questions/tagged/c%2B%2B
 
 
-Useful Libraries
+### Useful Libraries
 * Boost C++ Libraries
   * " "...one of the most highly regarded and expertly designed C++ library projects in the world." — Herb Sutter and Andrei Alexandrescu, C++ Coding Standards
   * http://www.boost.org/
@@ -92,22 +93,23 @@ Useful Libraries
   * http://www.cryptopp.com/
     * https://github.com/weidai11/cryptopp
 
-Github Resources
+### Github Resources
 * https://github.com/uhub/awesome-c.git
+* https://github.com/fffaraz/awesome-cpp
 * https://github.com/openthread/openthread
 * https://github.com/xoreaxeaxeax/movfuscator
 * https://github.com/rigtorp/awesome-modern-cpp
 
 
-Interesting Github Accounts, with a C++ focus
+### Interesting Github Accounts, with a C++ focus
 * https://github.com/pmed?tab=repositories
 
 
-C++ Related Blogs
+### C++ Related Blogs
 * http://arne-mertz.de/
 
 
-Interesting Articles
+### Interesting Articles
 * http://www.infoworld.com/article/2608800/application-development/application-development-c-14-is-done-here-s-what-s-new.html
 * http://www.infoq.com/news/2016/05/gcc61-released
 * https://en.wikipedia.org/wiki/POSIX
