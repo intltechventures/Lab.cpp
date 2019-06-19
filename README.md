@@ -1,8 +1,6 @@
-# Lab.cpp
-A repository that serves as my lab for exploring the C++ language
-==== 
+i# A repository that serves as my lab for exploring the C++ language
 
-### References
+## References
 * https://gcc.gnu.org
 * http://www.stroustrup.com/
 * https://google.github.io/styleguide/cppguide.html
@@ -12,7 +10,7 @@ A repository that serves as my lab for exploring the C++ language
 * [Essential C, by Nick Parlante] (http://cslibrary.stanford.edu/101/EssentialC.pdf)
 
 
-### C++ Standards
+## C++ Standards
 * https://isocpp.org/
 	* https://isocpp.org/std/the-standard
 
@@ -27,7 +25,7 @@ A repository that serves as my lab for exploring the C++ language
 	* http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4296.pdf 
 
 
-### Compilers / Tools
+## Compilers / Tools
 * GCC, The GNU Compiler Collection
 	* https://gcc.gnu.org/
 	* https://gcc.gnu.org/svn.html
@@ -61,20 +59,25 @@ A repository that serves as my lab for exploring the C++ language
 	* http://linux.web.cern.ch/linux/devtoolset/
 		
 
-### IDEs
+## IDEs
 * http://codeblocks.org/
 
 
-### Tutorials & Learning Resources
-* http://cpp.sh/
+## Tutorials & Learning Resources
+- http://cpp.sh/
+- https://github.com/gibsjose/cpp-cheat-sheet
+  + https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
+  + https://github.com/gibsjose/cpp-cheat-sheet/blob/master/Data%20Structures%20and%20Algorithms.md
+- https://github.com/rougier/cpp-crash-course
 
 
-### Community Forums
+## Community Forums
 * https://gcc.gnu.org/ml/gcc/
 * http://stackoverflow.com/questions/tagged/c%2B%2B
+* https://cboard.cprogramming.com/
 
 
-### Useful Libraries
+## Useful Libraries
 * Boost C++ Libraries
   * " "...one of the most highly regarded and expertly designed C++ library projects in the world." — Herb Sutter and Andrei Alexandrescu, C++ Coding Standards
   * http://www.boost.org/
@@ -93,7 +96,7 @@ A repository that serves as my lab for exploring the C++ language
   * http://www.cryptopp.com/
     * https://github.com/weidai11/cryptopp
 
-### Github Resources
+## Github Resources
 * https://github.com/uhub/awesome-c.git
 * https://github.com/fffaraz/awesome-cpp
 * https://github.com/openthread/openthread
@@ -101,15 +104,16 @@ A repository that serves as my lab for exploring the C++ language
 * https://github.com/rigtorp/awesome-modern-cpp
 
 
-### Interesting Github Accounts, with a C++ focus
+## Interesting Github Accounts, with a C++ focus
 * https://github.com/pmed?tab=repositories
 
 
-### C++ Related Blogs
+## C++ Related Blogs
 * http://arne-mertz.de/
 
 
-### Interesting Articles
+## Interesting Articles
+* https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 * http://www.infoworld.com/article/2608800/application-development/application-development-c-14-is-done-here-s-what-s-new.html
 * http://www.infoq.com/news/2016/05/gcc61-released
 * https://en.wikipedia.org/wiki/POSIX
@@ -122,4 +126,6 @@ A repository that serves as my lab for exploring the C++ language
 * https://solarianprogrammer.com/2015/01/13/raspberry-pi-raspbian-install-gcc-compile-cpp-14-programs/
 * http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
 
+## Suggested C++ Books
+- https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
