@@ -1,13 +1,24 @@
-i# A repository that serves as my lab for exploring the C++ language
+
+# A repository that serves as my lab for exploring the C++ language
 
 ## References
-* https://gcc.gnu.org
-* http://www.stroustrup.com/
-* https://google.github.io/styleguide/cppguide.html
-* http://en.cppreference.com/
-	 http://en.cppreference.com/w/cpp/compiler_support
-* http://www.cplusplus.com/
-* [Essential C, by Nick Parlante] (http://cslibrary.stanford.edu/101/EssentialC.pdf)
+- https://gcc.gnu.org
+
+- http://www.stroustrup.com/
+
+- https://google.github.io/styleguide/cppguide.html
+
+- http://en.cppreference.com/
+  + http://en.cppreference.com/w/cpp/compiler_support
+
+- http://www.cplusplus.com/
+
+- [Essential C, by Nick Parlante] (http://cslibrary.stanford.edu/101/EssentialC.pdf)
+
+- https://en.cppreference.com/w/ 
+  + https://en.cppreference.com/w/cpp/links/libs
+
+- https://sourceforge.net/directory/financial/c-plus-plus
 
 
 ## C++ Standards
@@ -78,6 +89,12 @@ i# A repository that serves as my lab for exploring the C++ language
 
 
 ## Useful Libraries
+- https://sourceforge.net/directory/financial/c-plus-plus
+
+- Intel® oneAPI Math Kernel Library (oneMKL)   
+  + https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html
+  + https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html
+
 * Boost C++ Libraries
   * " "...one of the most highly regarded and expertly designed C++ library projects in the world." — Herb Sutter and Andrei Alexandrescu, C++ Coding Standards
   * http://www.boost.org/
@@ -96,6 +113,42 @@ i# A repository that serves as my lab for exploring the C++ language
   * http://www.cryptopp.com/
     * https://github.com/weidai11/cryptopp
 
+- Quantlib
+  + https://www.quantlib.org/
+    * https://github.com/lballabio/quantlib
+
+- https://www.marketcalls.in/algo-trading/top-quant-c-library-quantitative-finance.html
+
+- Armadillo 
+  + https://arma.sourceforge.net/
+
+- Eigen 
+
+- GNU Scientific Library (GSL)
+  + https://www.gnu.org/software/gsl/
+  + https://savannah.gnu.org/projects/gsl
+  + https://en.wikipedia.org/wiki/GNU_Scientific_Library
+  + http://mirrors.ocf.berkeley.edu/gnu/gsl/
+
+- Blitz 
+  + https://sourceforge.net/projects/blitz/
+
+
+- Dlib 
+  + http://dlib.net/
+
+- mlpack
+  + https://www.mlpack.org/
+    * https://github.com/mlpack/mlpack
+ 
+- TA-Lib 
+  + https://ta-lib.org/
+    * https://github.com/TA-Lib
+    * https://github.com/TA-Lib/ta-lib
+
+
+
+
 ## Github Resources
 * https://github.com/uhub/awesome-c.git
 * https://github.com/fffaraz/awesome-cpp
@@ -113,6 +166,7 @@ i# A repository that serves as my lab for exploring the C++ language
 
 
 ## Interesting Articles
+
 * https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 * http://www.infoworld.com/article/2608800/application-development/application-development-c-14-is-done-here-s-what-s-new.html
 * http://www.infoq.com/news/2016/05/gcc61-released
@@ -126,6 +180,44 @@ i# A repository that serves as my lab for exploring the C++ language
 * https://solarianprogrammer.com/2015/01/13/raspberry-pi-raspbian-install-gcc-compile-cpp-14-programs/
 * http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
 
+
+
+### 2010
+- [Boost C++ Libraries and Applications to Computational Finance](https://quantnet.com/threads/boost-c-libraries-and-applications-to-computational-finance.9961/)
+
+
+### 2018
+- [The Boost C++ Libraries Overview and Applicability to Computational Finance: Part I](https://wilmott.com/the-boost-c-libraries-overview-and-applicability-to-computational-finance-part-i/)
+
+### 2024
+- [How to Accelerate Quantitative Finance with ISO C++ Standard Parallelism](https://developer.nvidia.com/blog/how-to-accelerate-quantitative-finance-with-iso-c-standard-parallelism/)
+
+
+
+
 ## Suggested C++ Books
 - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+
+- [Financial Instrument Pricing Using C++ (Wiley Finance) 2nd Edition](https://www.amazon.com/Financial-Instrument-Pricing-Using-Finance/dp/0470971193)
+
+- [Options and Derivatives Programming in C++23: Algorithms and Programming Techniques for the Financial Industry 3rd Edition](https://www.amazon.com/Options-Derivatives-Programming-Algorithms-Techniques/dp/1484298268/)
+
+
+- [Learning Modern C++ for Finance](https://www.oreilly.com/library/view/learning-modern-c/9781098100797/) - November 2024
+
+
+- [Practical C++20 Financial Programming: Problem Solving for Quantitative Finance, Financial Engineering, Business, and Economics 2nd ed. Edition](https://www.amazon.com/Practical-Financial-Programming-Quantitative-Engineering-dp-1484268334/dp/1484268334/)
+
+- [Financial Modeling Using C++](https://www.amazon.com/Financial-Modeling-Using-Chandan-Sengupta/dp/0471789089)
+
+- [Implementing QuantLib: Quantitative finance in C++: an inside look at the architecture of the QuantLib library](https://www.amazon.com/Implementing-QuantLib-Quantitative-finance-architecture/dp/B08KHSZK86) 
+
+
+
+## C++ Conferences
+
+- https://cppcon.org/
+  + https://www.youtube.com/@CppCon
+
+
 
