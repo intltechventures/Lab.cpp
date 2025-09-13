@@ -1,26 +1,35 @@
 
 # A repository that serves as my lab for exploring the C++ language
 
-## References
+- ```TODO: verify all links are still correct/active```
 
-- https://gcc.gnu.org
+
+## References
 
 - http://www.stroustrup.com/
 
+
+- https://gcc.gnu.org
+
+
 - https://google.github.io/styleguide/cppguide.html
+
 
 - https://en.cppreference.com/
 - https://en.cppreference.com/w/cpp.html
   + https://en.cppreference.com/w/cpp/compiler_support
   + https://en.cppreference.com/w/cpp/links/libs
 
+
 - http://www.cplusplus.com/
 
-- [Essential C, by Nick Parlante] (http://cslibrary.stanford.edu/101/EssentialC.pdf)
+
+- http://cslibrary.stanford.edu/
+  + [Essential C, by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+
 
 - https://www.modernescpp.com/index.php/table-of-content/
 
-- https://sourceforge.net/directory/financial/c-plus-plus
 
 
 ## C++ Standards
@@ -39,22 +48,19 @@
 
 - GCC, The GNU Compiler Collection
 	* https://gcc.gnu.org/
-	* https://gcc.gnu.org/svn.html
-	* https://gcc.gnu.org/releases.html
+
+  * https://gcc.gnu.org/releases.html
+
+  * https://gcc.gnu.org/onlinedocs/
 	* https://gcc.gnu.org/onlinedocs/gcc/Standards.html
-	* https://gcc.gnu.org/install/
 	* https://gcc.gnu.org/onlinedocs/gcc/C-Dialect-Options.html
 
-- GCC-6.1.0
-	* https://gcc.gnu.org/gcc-6/changes.html
-	* https://gcc.gnu.org/onlinedocs/6.1.0/
-	* https://gcc.gnu.org/onlinedocs/gcc-6.1.0/gcc/
-	* http://www.linuxfromscratch.org/lfs/view/development/chapter06/gcc.html
+	* https://gcc.gnu.org/install/
+
 
 - clang
 	* http://clang.llvm.org/
 	* http://clang.llvm.org/cxx_status.html
-
 
 
 - Linux @ CERN - Developer Toolset
@@ -62,8 +68,25 @@
 		
 
 ## IDEs
-* http://codeblocks.org/
 
+- http://codeblocks.org/
+
+
+- Eclipse for C/C++ Developers 
+  + https://www.eclipse.org/downloads/packages/release/2025-09/r/eclipse-ide-cc-developers
+
+
+- Microsoft Visual Studio Code 
+  + https://code.visualstudio.com
+    * https://marketplace.visualstudio.com/vscode
+      * [C/C++ for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+      * [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack) 
+
+
+- Microsoft Visual Studio 
+  + https://visualstudio.microsoft.com/vs/features/cplusplus/
+    * https://marketplace.visualstudio.com/vs
+    
 
 ## Tutorials & Learning Resources
 
@@ -93,9 +116,11 @@
 
 - https://sourceforge.net/directory/financial/c-plus-plus
 
+
 - Intel® oneAPI Math Kernel Library (oneMKL)   
   + https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html
   + https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl-download.html
+
 
 - Boost C++ Libraries
   + " ...one of the most highly regarded and expertly designed C++ library projects in the world." — Herb Sutter and Andrei Alexandrescu, C++ Coding Standards
@@ -103,29 +128,37 @@
   + http://www.boost.org/doc/libs/1_61_0/
   + http://www.boost.org/doc/libs/1_61_0/libs/algorithm/doc/html/index.html
 
+
 - Intel® Threading Building Blocks (Intel® TBB)...++ multicore performance
   + https://www.threadingbuildingblocks.org/
+
 
 - Thrust
   + https://thrust.github.io/
   + https://developer.nvidia.com/thrust
   + http://docs.nvidia.com/cuda/thrust/
 
+
 - Cryptography
   + http://www.cryptopp.com/
     * https://github.com/weidai11/cryptopp
+
 
 - Quantlib
   + https://www.quantlib.org/
     * https://github.com/lballabio/quantlib
 
+
 - https://www.marketcalls.in/algo-trading/top-quant-c-library-quantitative-finance.html
+
 
 - Armadillo 
   + https://arma.sourceforge.net/
 
+
 - Eigen 
   + ???
+
 
 - GNU Scientific Library (GSL)
   + https://www.gnu.org/software/gsl/
@@ -133,12 +166,14 @@
   + https://en.wikipedia.org/wiki/GNU_Scientific_Library
   + http://mirrors.ocf.berkeley.edu/gnu/gsl/
 
+
 - Blitz 
   + https://sourceforge.net/projects/blitz/
 
 
 - Dlib 
   + http://dlib.net/
+
 
 - mlpack
   + https://www.mlpack.org/
@@ -150,7 +185,8 @@
     * https://github.com/TA-Lib/ta-lib
 
 
-## Github Resources
+
+## Github Repositories
 
 - https://github.com/uhub/awesome-c.git
 
@@ -161,6 +197,12 @@
 - https://github.com/xoreaxeaxeax/movfuscator
 
 - https://github.com/rigtorp/awesome-modern-cpp
+
+
+## Sourceforge Projects 
+
+- https://sourceforge.net/directory/financial/c-plus-plus
+
 
 
 ## Interesting Github Accounts, with a C++ focus
@@ -223,11 +265,12 @@
   + http://www.stroustrup.com/4th.html
 
   + http://www.stroustrup.com/programming.html
+    * [Programming: Principles and Practice Using C++ (C++ In-depth) 3rd Edition](https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0138308683)
 
   + http://www.stroustrup.com/dne.html
 
 
-- [Programming: Principles and Practice Using C++ (C++ In-depth) 3rd Edition](https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0138308683)
+
 
 
 - [Beginning C++23: From Beginner to Pro Seventh Edition](https://www.amazon.com/dp/1484293428/)
@@ -259,6 +302,9 @@
 
 - [Implementing QuantLib: Quantitative finance in C++: an inside look at the architecture of the QuantLib library](https://www.amazon.com/Implementing-QuantLib-Quantitative-finance-architecture/dp/B08KHSZK86) 
 
+
+- Linux From Scratch 
+  + https://www.linuxfromscratch.org/lfs/view/development/
 
 
 ## C++ Conferences
